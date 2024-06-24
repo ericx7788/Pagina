@@ -3,7 +3,7 @@ const productos = [
     {
         id: "necessaires-01",
         titulo: "Necessaires 01",
-        imagen: "necessaires.jpg",
+        imagen: "img/necessaires.jpg",
         categoria: {
             nombre: "Necessaires",
             id: "necessaires"
@@ -13,7 +13,7 @@ const productos = [
     {
         id: "necessaires-02",
         titulo: "Necessaires 02",
-        imagen: "necessaires (2).jpg",
+        imagen: "img/necessaires (2).jpg",
         categoria: {
             nombre: "Necessaires",
             id: "necessaires"
@@ -23,7 +23,7 @@ const productos = [
     {
         id: "necessaires-03",
         titulo: "Necessaires 03",
-        imagen: "necessaires (3).jpg",
+        imagen: "img/necessaires (3).jpg",
         categoria: {
             nombre: "Necessaires",
             id: "necessaires"
@@ -33,7 +33,7 @@ const productos = [
     {
         id: "necessaires-04",
         titulo: "Necessaires 04",
-        imagen: "necessaires (4).jpg",
+        imagen: "img/necessaires (4).jpg",
         categoria: {
             nombre: "Necessaires",
             id: "necessaires"
@@ -46,7 +46,7 @@ const productos = [
     {
         id: "chau latas-01",
         titulo: "Chau latas 01",
-        imagen: "chau latas.jpg",
+        imagen: "img/chau latas.jpg",
         categoria: {
             nombre: "Chau latas",
             id: "chau latas"
@@ -56,7 +56,7 @@ const productos = [
     {
         id: "chau latas-02",
         titulo: "Chau latas 02",
-        imagen: "chau latas (2).jpg",
+        imagen: "img/chau latas (2).jpg",
         categoria: {
             nombre: "Chau latas",
             id: "chau latas"
@@ -66,7 +66,7 @@ const productos = [
     {
         id: "chau latas-03",
         titulo: "Chau latas 03",
-        imagen: "chau latas (3).jpg",
+        imagen: "img/chau latas (3).jpg",
         categoria: {
             nombre: "Chau latas",
             id: "chau latas"
@@ -76,7 +76,7 @@ const productos = [
     {
         id: "chau latas-04",
         titulo: "Chau latas 04",
-        imagen: "chau latas (4).jpg",
+        imagen: "img/chau latas (4).jpg",
         categoria: {
             nombre: "Chau latas",
             id: "chau latas"
@@ -88,7 +88,7 @@ const productos = [
     {
         id: "porta anteojos-01",
         titulo: "Porta anteojos 01",
-        imagen: "Porta anteojos.jpg",
+        imagen: "img/Porta anteojos.jpg",
         categoria: {
             nombre: "Otros",
             id: "otros"
@@ -99,7 +99,7 @@ const productos = [
     {
         id: "porta anteojos-02",
         titulo: "Porta anteojos 02",
-        imagen: "Porta anteojos (2).jpg",
+        imagen: "img/Porta anteojos (2).jpg",
         categoria: {
             nombre: "Otros",
             id: "otros"
@@ -109,7 +109,7 @@ const productos = [
     {
         id: "materos",
         titulo: "Materos ",
-        imagen: "Materos.jpg",
+        imagen: "img/Materos.jpg",
         categoria: {
             nombre: "Otros",
             id: "otros"
@@ -119,7 +119,7 @@ const productos = [
     {
         id: "matera de lona",
         titulo: "Matera de lona",
-        imagen: "Matera de lona.jpg",
+        imagen: "img/Matera de lona.jpg",
         categoria: {
             nombre: "Otros",
             id: "otros"
@@ -129,7 +129,7 @@ const productos = [
     {
         id: "mochila puffer",
         titulo: "Mochila puffer ",
-        imagen: "Mochila puffer.jpg",
+        imagen: "img/Mochila puffer.jpg",
         categoria: {
             nombre: "Otros",
             id: "otros"
@@ -141,7 +141,7 @@ const productos = [
     {
         id: "porta mate de auto",
         titulo: "Porta mate de auto",
-        imagen: "Porta mate de auto.jpg",
+        imagen: "img/Porta mate de auto.jpg",
         categoria: {
             nombre: "Otros",
             id: "otros"
@@ -151,7 +151,7 @@ const productos = [
     {
         id: "riñonera",
         titulo: "Riñonera",
-        imagen: "Riñonera.jpg",
+        imagen: "img/Riñonera.jpg",
         categoria: {
             nombre: "Otros",
             id: "otros"
